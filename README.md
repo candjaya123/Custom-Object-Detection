@@ -9,7 +9,7 @@ Step by step how to create object detection using Tensorflow 2
 
 > or visit to anaconda official website
 https://www.anaconda.com/products/distribution
-![My Image](https://github.com/candjaya123/Custom-Object-Detection/blob/main/asset/anaconda.png)
+![My Image](https://github.com/candjaya123/Asset/blob/main/images/anaconda.png)
 
 # 2. create new environment
 
