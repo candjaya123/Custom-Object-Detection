@@ -10,7 +10,7 @@ https://repo.anaconda.com/archive/Anaconda3-2022.10-Windows-x86_64.exe
 
 > or visit to anaconda official website
 https://www.anaconda.com/products/distribution
-![My Image](asset\anaconda.png)
+![My Image](https://github.com/candjaya123/Custom-Object-Detection/blob/main/asset/anaconda.png)
 
 # 2. create new environment
 ###### conda create -n [env_name] pip python=3.9
