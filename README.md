@@ -6,7 +6,11 @@ Step by step how to create object detection using Tensorflow 2
 # 1. instal anaconda
 
 > in order to install anaconda3 just klik in this link below
-https://repo.anaconda.com/archive/Anaconda3-2022.10-Windows-x86_64.exe
+https://repo.anaconda.com/archive/Anaconda3-2022.10-Windows-x86_64.exe  
+
+> or visit to anaconda official website
+https://www.anaconda.com/products/distribution
+![My Image](asset\anaconda.png)
 
 # 2. create new environment
 ###### conda create -n [env_name] pip python=3.9
