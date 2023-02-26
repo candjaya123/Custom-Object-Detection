@@ -1,6 +1,8 @@
 # Custom-Object-Detection
 Step by step how to create object detection using Tensorflow 2
 
+> note: this tutorial is tested on windows 11 and anaconda3
+
 # 1. instal anaconda
 
 # 2. create new environment
