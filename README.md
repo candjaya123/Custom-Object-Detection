@@ -25,6 +25,8 @@ conda activate [env_name]
 ```
 conda install ipykernel
 conda install jupyter
+conda install protobuf
+conda install matplotlib
 ```
 
 # 4. clone repository
