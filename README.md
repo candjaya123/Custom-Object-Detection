@@ -14,7 +14,8 @@ https://www.anaconda.com/products/distribution
 # 2. create new environment
 
 #### first open Anaconda Prompt and run the command below to create new environment
-
+![My Image](https://github.com/candjaya123/Asset/blob/main/images/Screenshot_20230227_010606.png)
+    
 ```
 conda create -n [env_name] pip python=3.9 
 conda activate [env_name]
