@@ -1,9 +1,9 @@
 # Custom-Object-Detection
 Step by step how to create object detection using Tensorflow 2
 
-> note: this tutorial is tested on windows 11 and anaconda3
+> note: this tutorial is tested on windows 11 on anaconda3 environment
 
-# 1. instal anaconda
+# 1. install anaconda
 
 > in order to install anaconda3 just klik in this [link](https://repo.anaconda.com/archive/Anaconda3-2022.10-Windows-x86_64.exe)
 
@@ -47,6 +47,26 @@ jupyter notebook
 ### ![My Image](https://github.com/candjaya123/Asset/blob/main/images/Screenshot_20230227_003840.png)
 
 > just run all shell inside Collect_Image.ipynb
+
+### on step labeling image
+### ![My Image](https://github.com/candjaya123/Asset/blob/main/images/Screenshot_20230227_005057.png)
+
+### select the folder name to open dir and save dir exactly same as label defined before on this step
+
+### ![My Image](https://github.com/candjaya123/Asset/blob/main/images/Screenshot_20230227_005541.png)
+
+### ![My Image](https://github.com/candjaya123/Asset/blob/main/images/Screenshot_20230227_004927.png)
+
+### use this usefull short cut to create label images
+
+```
+Ctrl + w to add bounding box
+Ctrl + a to move on images before
+Ctrl + d to move on next images
+Ctrl + c to copy boxes
+Ctrl + v to paste boxes
+
+```
 
 # 6. train model
 
