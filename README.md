@@ -12,11 +12,33 @@ https://www.anaconda.com/products/distribution
 ![My Image](https://github.com/candjaya123/Custom-Object-Detection/blob/main/asset/anaconda.png)
 
 # 2. create new environment
+
+#### first open Anaconda Prompt and run the command below to create new environment
+
 ```
 conda create -n [env_name] pip python=3.9 
 conda activate [env_name]
 ```
 
 # 3. installing package on conda
-###### conda install ipykernel
-###### conda install jupyter
+
+```
+conda install ipykernel
+conda install jupyter
+```
+
+# 4. clone repository
+
+```
+git clone https://github.com/candjaya123/Custom-Object-Detection.git
+
+```
+
+# 5. collect images dataset
+
+### get inside clone repo and type command on Anaconda Prompt
+
+```
+jupyter notebook
+
+```
