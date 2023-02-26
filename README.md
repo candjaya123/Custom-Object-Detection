@@ -43,3 +43,5 @@ jupyter notebook
 
 ```
 ### ![My Image](https://github.com/candjaya123/Asset/blob/main/images/Screenshot_20230226_200705.png)
+
+> just run all shell inside Collect_Image.ipynb
