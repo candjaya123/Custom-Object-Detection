@@ -44,6 +44,12 @@ git clone https://github.com/candjaya123/Custom-Object-Detection.git
 jupyter notebook
 
 ```
-### ![My Image](https://github.com/candjaya123/Asset/blob/main/images/Screenshot_20230226_200705.png)
+### ![My Image](https://github.com/candjaya123/Asset/blob/main/images/Screenshot_20230227_003840.png)
 
 > just run all shell inside Collect_Image.ipynb
+
+# 6. train model
+
+### ![My Image](https://github.com/candjaya123/Asset/blob/main/images/Screenshot_20230227_003840.png)
+
+> just run all shell inside Training.ipynb
